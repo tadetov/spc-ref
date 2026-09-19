@@ -1,0 +1,78 @@
+{
+  "spusteno": "2026-09-18T17:18:24",
+  "dlp_zip": "DLP20260827.zip",
+  "spc_zip": "SPC-neni.zip",
+  "platnost": {
+    "PLATNOST_OD": "01.09.2026",
+    "PLATNOST_DO": "30.09.2026"
+  },
+  "priznaky_slozeni": {
+    "A": "AD ... DOPLNĚNO DO:",
+    "C": "Pomocná látka, která odpovídá jiné pomocné látce",
+    "D": "Adjuvant",
+    "L": "Léčivá látka",
+    "O": "Účinná látka, která odpovídá jiné účinné látce",
+    "R": "Rozpouštědlo",
+    "S": "SUBTOTAL",
+    "T": "TOTAL",
+    "X": "1) pomocná látka, \n2) oddělovací řádek, pokud není uveden název látky",
+    "Z": "pomocný údaj; \n1) pro léčivou látku znamená, že následuje léčivá látka odpovídající látce uvedené na řádku před corresponding to:, \n2) pro pomocnou látku znamená, že následuje pomocná látka (viz označení C) odpovídající pomocné látce uvedené na řádku před corresponding to:,\n3) OR v názvu látky znamená, že v léčivém přípravku je buď látka uvedená nad nebo pod řádkem s označením OR"
+  },
+  "priznaky_pouzite_jako_lecive": [
+    "L",
+    "O"
+  ],
+  "pripravky_celkem_v_dlp": 69759,
+  "rozlozeni_reg": {
+    "R – registrovaný léčivý přípravek": 61129,
+    "B – přípravek po provedené změně může být uváděn na trh po dobu 6 měsíců a používán do uplynutí doby použitelnosti, nejdéle po dobu platnosti registrace": 6973,
+    "F – specifický léčebný program povolený MZČR na základě doporučení SÚKL": 178,
+    "P – potravina pro zvláštní lékařské účely": 1434,
+    "M – pozastavení registrace nebo používání léčivého přípravku  a jeho uvádění do oběhu": 27,
+    "K – pozastavení rozhodnutí o centralizované registraci": 1,
+    "C – zrušená registrace, přípravek bude stažen z oběhu do doby uvedené v rozhodnutí o zrušení registrace": 4,
+    "I – léčivý přípravek povolený na základě mimořádného opatření MZ": 13
+  },
+  "rozlozeni_typ_lp": {
+    "CH – Chemické léčivé přípravky": 61394,
+    "TR – Tradiční rostlinné léčivé přípravky": 203,
+    "HO – Homeopatické léčivé přípravky": 833,
+    "HE – Rostlinné léčivé přípravky": 275,
+    "IM – Imunologické léčivé přípravky": 477,
+    "BI – Biologické léčivé přípravky - ostatní": 575,
+    "RA – Radiofarmaka": 562,
+    "BT – Biotechnologické léčivé přípravky": 2763,
+    "KR/B – Krevní derivát-immunoglobulin (iv/im/sc)": 191,
+    "KR/O – Krevní derivát-ostatní": 21,
+    "IM/BT – Imunologické léčivé přípravky/Biotechnologické léčivé přípravky": 261,
+    " – ": 1992,
+    "KR/I – Krevní derivát-koagulační inhibitor": 18,
+    "KR/L – Krevní derivát-fibrinové lepidlo": 24,
+    "KR/F – Krevní derivát-koagulační faktor": 45,
+    "IM/CH – Imunologické léčivé přípravky/Chemické léčivé přípravky": 18,
+    "KR/A – Krevní derivát-albumin": 34,
+    "AD/GM – ATMP - Genová terapie obsahující GMO": 44,
+    "IM/M/BT – Imunologické léčivé přípravky obsahující GMO/Biotechnologické léčivé přípravky": 11,
+    "AD/GCM – ATMP - Genová terapie (s buňkami/tkáněmi) obsahující GMO": 12,
+    "AD/T – ATMP - Tkáňové inženýrství": 3,
+    "IM/M – Imunologické léčivé přípravky obsahující GMO": 1,
+    "AD/S – ATMP - Somato-buněčná terapie": 2
+  },
+  "rozlozeni_odkaz_spc": {
+    "soubor": 47179,
+    "chybi": 9249,
+    "url_ema": 13297,
+    "url_jine": 34
+  },
+  "filtry": [
+    "REG == R",
+    "bez PZLÚ (-0)"
+  ],
+  "pripravky_po_filtru": 61129,
+  "dokumenty_lokalni_po_filtru": 7372,
+  "dokumenty_ema_odkaz_po_filtru": 1530,
+  "pripravky_bez_spc_po_filtru": 781,
+  "pripravky_s_ema_odkazem_po_filtru": 13293,
+  "dlp_only": true,
+  "skupiny_atc_celkem": 1937
+}

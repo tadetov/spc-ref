@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="SPC">
+<title>SPC – referenční texty SÚKL</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./icon-180.png">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header id="top">
+  <a href="#/" class="brand">SPC</a>
+  <div id="datastatus" class="datastatus"></div>
+  <a href="#/x" class="toplink" id="link-x">Křížový odkaz</a>
+  <a href="#/nastaveni" class="toplink" aria-label="Data a nastavení">Data</a>
+</header>
+
+<div id="banner" class="banner" hidden></div>
+
+<main id="view" tabindex="-1"></main>
+
+<form id="searchbar" class="searchbar" autocomplete="off">
+  <input id="q" type="search" inputmode="search" enterkeyhint="search"
+         placeholder="Látka, název přípravku nebo ATC" aria-label="Hledat" spellcheck="false">
+  <button type="button" id="clear" aria-label="Smazat">×</button>
+</form>
+
+<script src="./app.js"></script>
+</body>
+</html>

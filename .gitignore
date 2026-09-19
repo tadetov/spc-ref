@@ -1,0 +1,7 @@
+# stažená surová data (2,5 GB) a výstupy ETL se necommitují
+etl/data_raw/
+etl/out/
+etl/tests/raw/
+etl/tests/out/
+__pycache__/
+.DS_Store

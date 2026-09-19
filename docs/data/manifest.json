@@ -1,0 +1,405 @@
+{
+ "schema": 1,
+ "meta": {
+  "schema": 1,
+  "zdroj": "SÚKL – otevřená data (opendata.sukl.cz): DLP + SPC",
+  "dlp_zip": "DLP20260827.zip",
+  "spc_zip": "SPC20260827.zip",
+  "platnost_od": "01.09.2026",
+  "platnost_do": "30.09.2026",
+  "vygenerovano": "2026-09-19",
+  "vzorek": false,
+  "sekce_nazvy": {
+   "2": "Kvalitativní a kvantitativní složení",
+   "4.1": "Terapeutické indikace",
+   "4.2": "Dávkování a způsob podání",
+   "4.3": "Kontraindikace",
+   "4.4": "Zvláštní upozornění a opatření pro použití",
+   "4.5": "Interakce s jinými léčivými přípravky a jiné formy interakce",
+   "4.6": "Fertilita, těhotenství a kojení"
+  }
+ },
+ "vygenerovano": "2026-09-19T21:00:14",
+ "skupin": 1937,
+ "dokumentu": 4048,
+ "soubory": [
+  {
+   "soubor": "docs-000.json.gz",
+   "bajtu": 449545,
+   "bajtu_raw": 1666548,
+   "sha1": "cdf6a7ac0fca",
+   "dokumentu": 177
+  },
+  {
+   "soubor": "docs-001.json.gz",
+   "bajtu": 457792,
+   "bajtu_raw": 1653044,
+   "sha1": "40095c39d3ea",
+   "dokumentu": 142
+  },
+  {
+   "soubor": "docs-002.json.gz",
+   "bajtu": 453435,
+   "bajtu_raw": 1678895,
+   "sha1": "88bb391d0c80",
+   "dokumentu": 122
+  },
+  {
+   "soubor": "docs-003.json.gz",
+   "bajtu": 461945,
+   "bajtu_raw": 1679426,
+   "sha1": "5595881de142",
+   "dokumentu": 122
+  },
+  {
+   "soubor": "docs-004.json.gz",
+   "bajtu": 441329,
+   "bajtu_raw": 1668179,
+   "sha1": "dcd3641977be",
+   "dokumentu": 90
+  },
+  {
+   "soubor": "docs-005.json.gz",
+   "bajtu": 465046,
+   "bajtu_raw": 1675891,
+   "sha1": "c86de7787c22",
+   "dokumentu": 105
+  },
+  {
+   "soubor": "docs-006.json.gz",
+   "bajtu": 452157,
+   "bajtu_raw": 1668727,
+   "sha1": "cd86345a052a",
+   "dokumentu": 100
+  },
+  {
+   "soubor": "docs-007.json.gz",
+   "bajtu": 434981,
+   "bajtu_raw": 1611721,
+   "sha1": "d9343f6e407a",
+   "dokumentu": 80
+  },
+  {
+   "soubor": "docs-008.json.gz",
+   "bajtu": 447062,
+   "bajtu_raw": 1673627,
+   "sha1": "d14a66f818d6",
+   "dokumentu": 83
+  },
+  {
+   "soubor": "docs-009.json.gz",
+   "bajtu": 428520,
+   "bajtu_raw": 1677264,
+   "sha1": "f7f708897038",
+   "dokumentu": 105
+  },
+  {
+   "soubor": "docs-010.json.gz",
+   "bajtu": 465466,
+   "bajtu_raw": 1686365,
+   "sha1": "6e3fa86df2c6",
+   "dokumentu": 94
+  },
+  {
+   "soubor": "docs-011.json.gz",
+   "bajtu": 437250,
+   "bajtu_raw": 1667359,
+   "sha1": "e34ad4efe888",
+   "dokumentu": 107
+  },
+  {
+   "soubor": "docs-012.json.gz",
+   "bajtu": 443445,
+   "bajtu_raw": 1673313,
+   "sha1": "469aab132b83",
+   "dokumentu": 93
+  },
+  {
+   "soubor": "docs-013.json.gz",
+   "bajtu": 433088,
+   "bajtu_raw": 1670714,
+   "sha1": "af260e186130",
+   "dokumentu": 89
+  },
+  {
+   "soubor": "docs-014.json.gz",
+   "bajtu": 439180,
+   "bajtu_raw": 1664637,
+   "sha1": "ac34049bb589",
+   "dokumentu": 77
+  },
+  {
+   "soubor": "docs-015.json.gz",
+   "bajtu": 445860,
+   "bajtu_raw": 1673423,
+   "sha1": "5d9e3b34ead4",
+   "dokumentu": 76
+  },
+  {
+   "soubor": "docs-016.json.gz",
+   "bajtu": 436224,
+   "bajtu_raw": 1664257,
+   "sha1": "7df9edd7b081",
+   "dokumentu": 72
+  },
+  {
+   "soubor": "docs-017.json.gz",
+   "bajtu": 458621,
+   "bajtu_raw": 1669412,
+   "sha1": "44a03a6384af",
+   "dokumentu": 74
+  },
+  {
+   "soubor": "docs-018.json.gz",
+   "bajtu": 455171,
+   "bajtu_raw": 1645103,
+   "sha1": "e5a2864fda36",
+   "dokumentu": 77
+  },
+  {
+   "soubor": "docs-019.json.gz",
+   "bajtu": 445874,
+   "bajtu_raw": 1678949,
+   "sha1": "8159d2711e4f",
+   "dokumentu": 86
+  },
+  {
+   "soubor": "docs-020.json.gz",
+   "bajtu": 345365,
+   "bajtu_raw": 1672608,
+   "sha1": "96868de29463",
+   "dokumentu": 76
+  },
+  {
+   "soubor": "docs-021.json.gz",
+   "bajtu": 363760,
+   "bajtu_raw": 1650452,
+   "sha1": "4e5a82510cc2",
+   "dokumentu": 66
+  },
+  {
+   "soubor": "docs-022.json.gz",
+   "bajtu": 378279,
+   "bajtu_raw": 1675343,
+   "sha1": "dabb531647cf",
+   "dokumentu": 73
+  },
+  {
+   "soubor": "docs-023.json.gz",
+   "bajtu": 373565,
+   "bajtu_raw": 1676451,
+   "sha1": "215ec5ea3dc2",
+   "dokumentu": 61
+  },
+  {
+   "soubor": "docs-024.json.gz",
+   "bajtu": 361309,
+   "bajtu_raw": 1640755,
+   "sha1": "c7dc0c2b10dc",
+   "dokumentu": 70
+  },
+  {
+   "soubor": "docs-025.json.gz",
+   "bajtu": 397346,
+   "bajtu_raw": 1658635,
+   "sha1": "ade18e9a74d6",
+   "dokumentu": 50
+  },
+  {
+   "soubor": "docs-026.json.gz",
+   "bajtu": 345214,
+   "bajtu_raw": 1653592,
+   "sha1": "a4a470351e60",
+   "dokumentu": 64
+  },
+  {
+   "soubor": "docs-027.json.gz",
+   "bajtu": 398379,
+   "bajtu_raw": 1666008,
+   "sha1": "9cab7287c801",
+   "dokumentu": 59
+  },
+  {
+   "soubor": "docs-028.json.gz",
+   "bajtu": 367130,
+   "bajtu_raw": 1644251,
+   "sha1": "561893ff37b4",
+   "dokumentu": 62
+  },
+  {
+   "soubor": "docs-029.json.gz",
+   "bajtu": 388046,
+   "bajtu_raw": 1658332,
+   "sha1": "fac49bf2614c",
+   "dokumentu": 81
+  },
+  {
+   "soubor": "docs-030.json.gz",
+   "bajtu": 355313,
+   "bajtu_raw": 1639413,
+   "sha1": "188c8be2b90a",
+   "dokumentu": 63
+  },
+  {
+   "soubor": "docs-031.json.gz",
+   "bajtu": 367560,
+   "bajtu_raw": 1630512,
+   "sha1": "1c43d61367ce",
+   "dokumentu": 54
+  },
+  {
+   "soubor": "docs-032.json.gz",
+   "bajtu": 308627,
+   "bajtu_raw": 1629230,
+   "sha1": "ea51bb224a17",
+   "dokumentu": 43
+  },
+  {
+   "soubor": "docs-033.json.gz",
+   "bajtu": 363681,
+   "bajtu_raw": 1671305,
+   "sha1": "bb749a72842d",
+   "dokumentu": 65
+  },
+  {
+   "soubor": "docs-034.json.gz",
+   "bajtu": 350166,
+   "bajtu_raw": 1668467,
+   "sha1": "66e6e131ffef",
+   "dokumentu": 53
+  },
+  {
+   "soubor": "docs-035.json.gz",
+   "bajtu": 338706,
+   "bajtu_raw": 1633537,
+   "sha1": "fdc32ae38cf0",
+   "dokumentu": 52
+  },
+  {
+   "soubor": "docs-036.json.gz",
+   "bajtu": 369244,
+   "bajtu_raw": 1665842,
+   "sha1": "711d02350c95",
+   "dokumentu": 77
+  },
+  {
+   "soubor": "docs-037.json.gz",
+   "bajtu": 386479,
+   "bajtu_raw": 1653151,
+   "sha1": "8af35fc54734",
+   "dokumentu": 66
+  },
+  {
+   "soubor": "docs-038.json.gz",
+   "bajtu": 291841,
+   "bajtu_raw": 1655761,
+   "sha1": "d8561ec3ecae",
+   "dokumentu": 69
+  },
+  {
+   "soubor": "docs-039.json.gz",
+   "bajtu": 368352,
+   "bajtu_raw": 1676103,
+   "sha1": "94d497a4273f",
+   "dokumentu": 79
+  },
+  {
+   "soubor": "docs-040.json.gz",
+   "bajtu": 359847,
+   "bajtu_raw": 1673218,
+   "sha1": "3ccb9ac40809",
+   "dokumentu": 63
+  },
+  {
+   "soubor": "docs-041.json.gz",
+   "bajtu": 360886,
+   "bajtu_raw": 1663429,
+   "sha1": "e7aa38de6725",
+   "dokumentu": 66
+  },
+  {
+   "soubor": "docs-042.json.gz",
+   "bajtu": 341554,
+   "bajtu_raw": 1669679,
+   "sha1": "de8c76a097ad",
+   "dokumentu": 58
+  },
+  {
+   "soubor": "docs-043.json.gz",
+   "bajtu": 381503,
+   "bajtu_raw": 1663737,
+   "sha1": "65474e0ef756",
+   "dokumentu": 62
+  },
+  {
+   "soubor": "docs-044.json.gz",
+   "bajtu": 357985,
+   "bajtu_raw": 1644635,
+   "sha1": "04004b67809a",
+   "dokumentu": 83
+  },
+  {
+   "soubor": "docs-045.json.gz",
+   "bajtu": 344040,
+   "bajtu_raw": 1670801,
+   "sha1": "9e201fd999fb",
+   "dokumentu": 66
+  },
+  {
+   "soubor": "docs-046.json.gz",
+   "bajtu": 343351,
+   "bajtu_raw": 1606034,
+   "sha1": "cc1874a624c1",
+   "dokumentu": 49
+  },
+  {
+   "soubor": "docs-047.json.gz",
+   "bajtu": 379865,
+   "bajtu_raw": 1659672,
+   "sha1": "b1dce01dea8c",
+   "dokumentu": 64
+  },
+  {
+   "soubor": "docs-048.json.gz",
+   "bajtu": 373825,
+   "bajtu_raw": 1674641,
+   "sha1": "86f85abae3d9",
+   "dokumentu": 69
+  },
+  {
+   "soubor": "docs-049.json.gz",
+   "bajtu": 375454,
+   "bajtu_raw": 1668674,
+   "sha1": "151a34676358",
+   "dokumentu": 58
+  },
+  {
+   "soubor": "docs-050.json.gz",
+   "bajtu": 379862,
+   "bajtu_raw": 1676607,
+   "sha1": "dc2aa787446d",
+   "dokumentu": 73
+  },
+  {
+   "soubor": "docs-051.json.gz",
+   "bajtu": 360310,
+   "bajtu_raw": 1661289,
+   "sha1": "b3b6051b48f9",
+   "dokumentu": 63
+  },
+  {
+   "soubor": "docs-052.json.gz",
+   "bajtu": 107823,
+   "bajtu_raw": 474582,
+   "sha1": "53e702ad63ef",
+   "dokumentu": 20
+  }
+ ],
+ "index": {
+  "soubor": "index.json.gz",
+  "bajtu": 328273,
+  "bajtu_raw": 2025618,
+  "sha1": "84ee8fd75e4f"
+ },
+ "verze": "d520bf1e55c7"
+}
